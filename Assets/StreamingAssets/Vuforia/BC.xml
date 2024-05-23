@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="wile_coyote" size="0.090000 0.049155" />
+    <ImageTarget name="viktor_kolev" size="0.090000 0.051516" />
+    <ImageTarget name="Zermatt" size="0.100000 0.140258" />
+  </Tracking>
+</QCARConfig>
