@@ -2,6 +2,9 @@
 
 This is a Unity-based augmented reality (AR) application that enhances business cards by displaying relevant metadata in real-time.
 
+## Installation
+You can install the app from the .apk file in the [releases](https://github.com/viksuper555/business-cards/releases).
+
 ## Features
 
 - **Customizable Information**: Easily update the metadata shown for each card. 
@@ -25,7 +28,7 @@ This is a Unity-based augmented reality (AR) application that enhances business 
 https://github.com/viksuper555/business-cards/assets/15073936/9c6a4f21-8ba7-4803-bdc6-309924764f7d
 
 
-## Getting Started
+## For Development
 
 ### Prerequisites
 
